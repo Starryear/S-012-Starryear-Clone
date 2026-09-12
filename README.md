@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪶 Starryear Surreal Proliferation｜星年·超现实增殖
+# 【S-012】Starryear-Clone丨星年·克隆
 
 **让复制失控到荒诞：原图在中间作证，上下脱离原构图，成为两种全新却同属一个世界的克隆灾变。**
 
@@ -41,10 +41,21 @@
 
 `assets/examples/` 收录 4 张由 Starryear年 明确认可的生成参考图，用于展示“数量失控—现实证据—规则失灵”的三联结构及可接受的完成度。参考图只用于理解视觉方向，不应被逐像素临摹。
 
-- `reference-01-red-eggs.png`
-- `reference-02-elephants.png`
-- `reference-03-buddhas.png`
-- `reference-04-shiba-inu.png`
+### 红色卵石克隆
+
+![红色卵石克隆三联画](assets/examples/reference-01-red-eggs.png)
+
+### 象群克隆
+
+![象群克隆三联画](assets/examples/reference-02-elephants.png)
+
+### 佛像克隆
+
+![佛像克隆三联画](assets/examples/reference-03-buddhas.png)
+
+### 柴犬克隆
+
+![柴犬克隆三联画](assets/examples/reference-04-shiba-inu.png)
 
 ---
 
