@@ -1,0 +1,4 @@
+interface:
+  display_name: "Starryear Surreal Proliferation｜星年·超现实增殖"
+  short_description: "原图居中，上下脱离原构图重建无尽克隆世界"
+  default_prompt: "Use $starryear-surreal-proliferation to turn my photograph into an absurd endless-cloning triptych with an untouched source crop in the middle and two compositionally independent, visually unified surreal worlds above and below."
